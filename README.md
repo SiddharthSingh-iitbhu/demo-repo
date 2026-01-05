@@ -1,3 +1,3 @@
 ## demo-repo
-a demo repo to learn the git and github from harkirat
-
+a demo repo to learn the git and github from harkirat!
+hello world!
